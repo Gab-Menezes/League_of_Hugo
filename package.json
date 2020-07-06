@@ -1,0 +1,16 @@
+{
+  "name": "league-of-hugo",
+  "version": "1.0.0",
+  "description": "Discord bot, that uses riot's api to automatically send match data to the user",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Jorge Menezes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  }
+}
